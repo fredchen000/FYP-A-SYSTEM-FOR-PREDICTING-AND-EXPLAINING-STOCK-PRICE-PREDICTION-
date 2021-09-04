@@ -1,0 +1,17 @@
+The best parameters are {'solver': 'sag'}
+The Train Accuracy 0.655
+AUC ROC : 0.647
+The Validation Accuracy 0.647
+The Test Accuracy 0.651
+[[122  25]
+ [ 62  40]]
+              precision    recall  f1-score   support
+
+           0       0.66      0.83      0.74       147
+           1       0.62      0.39      0.48       102
+
+    accuracy                           0.65       249
+   macro avg       0.64      0.61      0.61       249
+weighted avg       0.64      0.65      0.63       249
+
+

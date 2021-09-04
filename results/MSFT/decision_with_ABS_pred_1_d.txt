@@ -1,0 +1,18 @@
+The best parameters are {'max_depth': 1, 'max_features': 2, 'min_samples_split': 30}
+The Train Accuracy 0.536
+AUC ROC : 0.507
+The Validation Accuracy 0.544
+The Test Accuracy 0.566
+[[132  10]
+ [ 98   9]]
+              precision    recall  f1-score   support
+
+           0       0.57      0.93      0.71       142
+           1       0.47      0.08      0.14       107
+
+    accuracy                           0.57       249
+   macro avg       0.52      0.51      0.43       249
+weighted avg       0.53      0.57      0.47       249
+
+
+{"change": 0.0, "open_delta": 0.0, "close_delta": 0.0, "volume_delta": 0.0, "high_low_diff_ratio": 0.0, "open_close_diff_ratio": 0.0, "close_-2_r": 0.0, "close_-6_r": 0.0, "kdjk": 0.0, "kdjd": 0.0, "kdjj": 0.0, "macd": 0.0, "macds": 0.0, "macdh": 0.0, "rsi_6": 0.0, "rsi_12": 0.0, "wr_6": 0.0, "wr_12": 0.0, "cci": 0.0, "atr": 0.0, "dma": 0.0, "vr": 0.0, "boll_-1_d": 0.0, "boll_ub_-1_d": 0.0, "boll_lb_-1_d": 0.0, "boll_k_diff": 0.0, "high_low_diff": 0.0, "open_close_diff": 0.0, "open": 0.0, "high": 0.0, "low": 0.0, "close": 0.0, "adj close": 0.0, "volume": 0.0, "news_title_score": 0.0, "news_des_score": 0.0, "sp500_open": 0.0, "sp500_high": 0.0, "sp500_low": 0.0, "sp500_close": 0.0, "sp500_adj close": 0.0, "sp500_volume": 0.0, "sp500_high_low_diff": 0.0, "sp500_open_close_diff": 0.0, "sp500_high_low_diff_ratio": 0.0, "sp500_open_close_diff_ratio": 0.0, "sp500_change": 0.0, "sp500_close_delta": 0.0, "sp500_volume_delta": 0.0, "sp500_close_-2_r": 0.0, "sp500_close_-6_r": 0.0, "gold_open": 0.0, "gold_high": 0.0, "gold_low": 0.0, "gold_close": 0.0, "gold_adj close": 0.0, "gold_volume": 0.0, "gold_high_low_diff": 0.0, "gold_open_close_diff": 0.0, "gold_high_low_diff_ratio": 0.0, "gold_open_close_diff_ratio": 0.0, "gold_change": 1.0, "gold_close_delta": 0.0, "gold_volume_delta": 0.0, "gold_close_-2_r": 0.0, "gold_close_-6_r": 0.0, "y10bond_open": 0.0, "y10bond_high": 0.0, "y10bond_low": 0.0, "y10bond_close": 0.0, "y10bond_adj close": 0.0, "y10bond_high_low_diff": 0.0, "y10bond_open_close_diff": 0.0, "y10bond_high_low_diff_ratio": 0.0, "y10bond_open_close_diff_ratio": 0.0, "y10bond_change": 0.0, "y10bond_close_delta": 0.0, "y10bond_close_-2_r": 0.0, "y10bond_close_-6_r": 0.0, "y5bond_open": 0.0, "y5bond_high": 0.0, "y5bond_low": 0.0, "y5bond_close": 0.0, "y5bond_adj close": 0.0, "y5bond_high_low_diff": 0.0, "y5bond_open_close_diff": 0.0, "y5bond_high_low_diff_ratio": 0.0, "y5bond_open_close_diff_ratio": 0.0, "y5bond_change": 0.0, "y5bond_close_delta": 0.0, "y5bond_close_-2_r": 0.0, "y5bond_close_-6_r": 0.0}

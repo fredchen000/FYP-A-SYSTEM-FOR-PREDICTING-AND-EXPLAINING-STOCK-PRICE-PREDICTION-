@@ -1,0 +1,17 @@
+The best parameters are {'gamma': 0.8, 'max_depth': 10, 'min_child_weight': 3, 'n_estimators': 100}
+The Train Accuracy 1.000
+AUC ROC : 0.763
+The Validation Accuracy 0.735
+The Test Accuracy 0.731
+[[127  26]
+ [ 41  55]]
+              precision    recall  f1-score   support
+
+           0       0.76      0.83      0.79       153
+           1       0.68      0.57      0.62        96
+
+    accuracy                           0.73       249
+   macro avg       0.72      0.70      0.71       249
+weighted avg       0.73      0.73      0.73       249
+
+

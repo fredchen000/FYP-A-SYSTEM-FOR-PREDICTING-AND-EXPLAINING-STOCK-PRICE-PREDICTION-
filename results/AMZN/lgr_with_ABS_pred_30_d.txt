@@ -1,0 +1,17 @@
+The best parameters are {'solver': 'newton-cg'}
+The Train Accuracy 0.678
+AUC ROC : 0.632
+The Validation Accuracy 0.649
+The Test Accuracy 0.671
+[[155   9]
+ [ 73  12]]
+              precision    recall  f1-score   support
+
+           0       0.68      0.95      0.79       164
+           1       0.57      0.14      0.23        85
+
+    accuracy                           0.67       249
+   macro avg       0.63      0.54      0.51       249
+weighted avg       0.64      0.67      0.60       249
+
+

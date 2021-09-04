@@ -1,0 +1,17 @@
+The best parameters are {'solver': 'lbfgs'}
+The Train Accuracy 0.602
+AUC ROC : 0.592
+The Validation Accuracy 0.586
+The Test Accuracy 0.583
+[[129   8]
+ [ 95  15]]
+              precision    recall  f1-score   support
+
+           0       0.58      0.94      0.71       137
+           1       0.65      0.14      0.23       110
+
+    accuracy                           0.58       247
+   macro avg       0.61      0.54      0.47       247
+weighted avg       0.61      0.58      0.50       247
+
+

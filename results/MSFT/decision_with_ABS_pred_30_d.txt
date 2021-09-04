@@ -1,0 +1,18 @@
+The best parameters are {'max_depth': 7, 'max_features': None, 'min_samples_split': 10}
+The Train Accuracy 0.901
+AUC ROC : 0.896
+The Validation Accuracy 0.838
+The Test Accuracy 0.831
+[[145  10]
+ [ 32  62]]
+              precision    recall  f1-score   support
+
+           0       0.82      0.94      0.87       155
+           1       0.86      0.66      0.75        94
+
+    accuracy                           0.83       249
+   macro avg       0.84      0.80      0.81       249
+weighted avg       0.84      0.83      0.83       249
+
+
+{"change": 0.0, "open_delta": 0.002966183432578745, "close_delta": 0.0, "volume_delta": 0.0, "high_low_diff_ratio": 0.0, "open_close_diff_ratio": 0.0, "close_-2_r": 0.0, "close_-6_r": 0.0, "kdjk": 0.026761401880504722, "kdjd": 0.009048948330937391, "kdjj": 0.01069286034942586, "macd": 0.0, "macds": 0.10367156111387901, "macdh": 0.015386647742270781, "rsi_6": 0.0, "rsi_12": 0.0, "wr_6": 0.008642920385049699, "wr_12": 0.0, "cci": 0.0, "atr": 0.01239634386224037, "dma": 0.05713981599225422, "vr": 0.04218560697693676, "boll_-1_d": 0.00875884613832795, "boll_ub_-1_d": 0.004922117450220292, "boll_lb_-1_d": 0.004605939766786002, "boll_k_diff": 0.0, "high_low_diff": 0.0, "open_close_diff": 0.0, "open": 0.193716110507305, "high": 0.013684294505052388, "low": 0.01216070440313478, "close": 0.0, "adj close": 0.029000630648742365, "volume": 0.0067995675125780515, "news_title_score": 0.0032496717888111136, "news_des_score": 0.0, "sp500_open": 0.0, "sp500_high": 0.008890372898550455, "sp500_low": 0.0, "sp500_close": 0.0, "sp500_adj close": 0.0, "sp500_volume": 0.0, "sp500_high_low_diff": 0.0, "sp500_open_close_diff": 0.002707164597621161, "sp500_high_low_diff_ratio": 0.0, "sp500_open_close_diff_ratio": 0.0, "sp500_change": 0.0, "sp500_close_delta": 0.0, "sp500_volume_delta": 0.00286846456559557, "sp500_close_-2_r": 0.005304037304228121, "sp500_close_-6_r": 0.0, "gold_open": 0.024213495209079137, "gold_high": 0.0, "gold_low": 0.0559640884717308, "gold_close": 0.07447399573633563, "gold_adj close": 0.008388960935852039, "gold_volume": 0.0, "gold_high_low_diff": 0.0, "gold_open_close_diff": 0.0, "gold_high_low_diff_ratio": 0.0, "gold_open_close_diff_ratio": 0.0, "gold_change": 0.0, "gold_close_delta": 0.006389024141180708, "gold_volume_delta": 0.0, "gold_close_-2_r": 0.0028212964384192163, "gold_close_-6_r": 0.003665952059278654, "y10bond_open": 0.1336381354006652, "y10bond_high": 0.015820238331533218, "y10bond_low": 0.03580796319663324, "y10bond_close": 0.0, "y10bond_adj close": 0.0076017647370598684, "y10bond_high_low_diff": 0.0, "y10bond_open_close_diff": 0.0, "y10bond_high_low_diff_ratio": 0.0, "y10bond_open_close_diff_ratio": 0.0, "y10bond_change": 0.0, "y10bond_close_delta": 0.0, "y10bond_close_-2_r": 0.0, "y10bond_close_-6_r": 0.0, "y5bond_open": 0.0, "y5bond_high": 0.0, "y5bond_low": 0.0028922698692533783, "y5bond_close": 0.016944738015098996, "y5bond_adj close": 0.013433898321480384, "y5bond_high_low_diff": 0.0, "y5bond_open_close_diff": 0.0, "y5bond_high_low_diff_ratio": 0.0, "y5bond_open_close_diff_ratio": 0.0, "y5bond_change": 0.0, "y5bond_close_delta": 0.007078818972821126, "y5bond_close_-2_r": 0.0, "y5bond_close_-6_r": 0.005305148010547621}

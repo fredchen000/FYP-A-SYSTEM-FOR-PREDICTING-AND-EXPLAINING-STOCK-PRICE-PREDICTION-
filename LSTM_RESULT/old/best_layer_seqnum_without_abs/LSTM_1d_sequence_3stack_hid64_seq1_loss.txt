@@ -1,0 +1,16 @@
+The Train Accuracy 0.808
+The Validation Accuracy 0.512
+The Test Accuracy 0.535
+AUC ROC : 0.515
+[[96 39]
+ [75 35]]
+              precision    recall  f1-score   support
+
+           0       0.56      0.71      0.63       135
+           1       0.47      0.32      0.38       110
+
+    accuracy                           0.53       245
+   macro avg       0.52      0.51      0.50       245
+weighted avg       0.52      0.53      0.52       245
+
+

@@ -1,0 +1,17 @@
+The best parameters are {'solver': 'saga'}
+The Train Accuracy 0.609
+AUC ROC : 0.591
+The Validation Accuracy 0.576
+The Test Accuracy 0.582
+[[111  27]
+ [ 77  34]]
+              precision    recall  f1-score   support
+
+           0       0.59      0.80      0.68       138
+           1       0.56      0.31      0.40       111
+
+    accuracy                           0.58       249
+   macro avg       0.57      0.56      0.54       249
+weighted avg       0.58      0.58      0.55       249
+
+

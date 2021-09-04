@@ -1,0 +1,17 @@
+The best parameters are {'solver': 'liblinear'}
+The Train Accuracy 0.560
+AUC ROC : 0.534
+The Validation Accuracy 0.483
+The Test Accuracy 0.534
+[[83 46]
+ [70 50]]
+              precision    recall  f1-score   support
+
+           0       0.54      0.64      0.59       129
+           1       0.52      0.42      0.46       120
+
+    accuracy                           0.53       249
+   macro avg       0.53      0.53      0.53       249
+weighted avg       0.53      0.53      0.53       249
+
+
